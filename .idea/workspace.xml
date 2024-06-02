@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1de18f14-5adb-4072-9e4f-54158c6689ff" name="Changes" comment="gitplugin test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +56,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "2021112276",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Subject/Software Egineering/LAB/LAB-1/SoftEngineeringLab/SoftEngineeringLab",
     "project.structure.last.edited": "Project",
