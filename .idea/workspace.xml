@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1de18f14-5adb-4072-9e4f-54158c6689ff" name="Changes" comment="gitplugin test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C4" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -56,7 +60,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "C4",
+    "git-widget-placeholder": "B1",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Subject/Software Egineering/LAB/LAB-1/SoftEngineeringLab/SoftEngineeringLab",
     "project.structure.last.edited": "Project",
